@@ -1,7 +1,7 @@
 # Font collection
 - font-family: 'Cedarville Cursive', cursive; 
 
-![image](https://user-images.githubusercontent.com/78078898/112044994-a52d9200-8b4a-11eb-91b7-5d1e2c602416.png)
+![image](https://user-images.githubusercontent.com/78078898/112046156-f7bb7e00-8b4b-11eb-8e74-f4617c4fafbd.png)
 - font-family: 'Kanit', sans-serif; 
 
 ![image](https://user-images.githubusercontent.com/78078898/112045985-c04cd180-8b4b-11eb-8ff5-9bf204a3af96.png)
