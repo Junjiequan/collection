@@ -23,7 +23,12 @@
 
 # Color gradient
 
-- [source](https://uigradients.com/#MegaTron)
+- [UI gradient](https://uigradients.com/#MegaTron)
+
+# Design
+
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
 
 # Some code 
 
