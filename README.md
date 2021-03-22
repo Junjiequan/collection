@@ -4,10 +4,10 @@
 ![image](https://user-images.githubusercontent.com/78078898/112044994-a52d9200-8b4a-11eb-91b7-5d1e2c602416.png)
 - font-family: 'Kanit', sans-serif; 
 
-![image](https://user-images.githubusercontent.com/78078898/112045087-be364300-8b4a-11eb-9fd9-ba0daa08c2e6.png)
+![image](https://user-images.githubusercontent.com/78078898/112045985-c04cd180-8b4b-11eb-8ff5-9bf204a3af96.png)
 - font-family: 'Encode Sans', sans-serif; 
 
-![image](https://user-images.githubusercontent.com/78078898/112045169-d312d680-8b4a-11eb-9745-fea00dadb4c5.png)
+![image](https://user-images.githubusercontent.com/78078898/112046068-dc507300-8b4b-11eb-9888-4158fd64e143.png)
 
 
 # Color collection
