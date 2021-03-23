@@ -51,8 +51,8 @@ pointer-events:none;
 ## Javascript
 Selectors
 ```
-innerHTML = "<div><p> Awesome </p></div>"
-innerText = "text only"
+element.innerHTML = "<div><p> Awesome </p></div>"
+element.innerText = "text only"
 const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
 const child = parent.childNodes
 element.classList.add('')
