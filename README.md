@@ -31,7 +31,7 @@
 - [Behance](https://www.behance.net/)
 
 # Some code 
-
+## CSS
 Parent hover change child style
 ```
   ${Link}:hover & {
@@ -47,4 +47,17 @@ white-space: pre-wrap; // css property
 Remove Icon pointer
 ```
 pointer-events:none;
+```
+## Javascript
+Selectors
+```
+innerHTML = "<div><p> Awesome </p></div>"
+innerText = "text only"
+const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
+const child = parent.childNodes
+element.classList.add('')
+element.classList.toggle('')
+element.classList.remove('')
+element.classList.contains('')
+element.appendChild
 ```
