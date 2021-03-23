@@ -46,7 +46,7 @@ element.appendChild
 
 # Some code 
 ## CSS
-Parent hover change child style
+Parent hover change child style **styled component**
 ```
   ${Link}:hover & {
     fill: rebeccapurple;
