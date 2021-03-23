@@ -1,3 +1,17 @@
+# Javascript
+Frequently used
+```
+element.innerHTML = "<div><p> Awesome </p></div>"
+element.innerText = "text only"
+const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
+const child = parent.childNodes
+element.classList.add('')
+element.classList.toggle('')
+element.classList.remove('')
+element.classList.contains('')
+element.appendChild
+```
+
 # Font 
 - font-family: 'Cedarville Cursive', cursive; 
 
@@ -48,16 +62,4 @@ Remove Icon pointer
 ```
 pointer-events:none;
 ```
-## Javascript
-Selectors
-```
-element.innerHTML = "<div><p> Awesome </p></div>"
-element.innerText = "text only"
-const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
-const child = parent.childNodes
-element.classList.add('')
-element.classList.toggle('')
-element.classList.remove('')
-element.classList.contains('')
-element.appendChild
-```
+
