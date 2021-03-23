@@ -44,3 +44,7 @@ white-space: pre-wrap; // css property
 
 {I am.\nJay}
 ```
+Remove Icon pointer
+```
+pointer-events:none;
+```
