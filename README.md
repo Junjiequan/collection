@@ -62,7 +62,7 @@ Remove Icon pointer
 ```
 pointer-events:none;
 ```
-Add image in ReactJScondition use `` instead of ''
+Add image in ReactJS condition use `` instead of ''
 ```
 background: ${({whitebg}) => (whitebg ? `url(${imageUrl})`: '#170c1a')};
 ```
