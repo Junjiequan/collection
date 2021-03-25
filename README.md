@@ -22,6 +22,9 @@ element.appendChild
 - font-family: 'Encode Sans', sans-serif; 
 
 ![image](https://user-images.githubusercontent.com/78078898/112046068-dc507300-8b4b-11eb-9888-4158fd64e143.png)
+- font-family: 'Poppins', sans-serif;
+
+![image](https://user-images.githubusercontent.com/78078898/112513784-f92bb700-8d94-11eb-9997-c1743aec82a2.png)
 
 
 # Color 
