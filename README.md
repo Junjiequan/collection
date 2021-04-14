@@ -10,6 +10,14 @@ const parent = child.parentElement || item.closest('.list-item').classList.toggl
 const child = parent.childNodes
 element.appendChild
 ```
+# HTML
+
+```
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
+```
 
 # Font 
 - font-family: 'Cedarville Cursive', cursive; 
