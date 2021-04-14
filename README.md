@@ -1,7 +1,7 @@
 # Javascript
 Frequently used
 ```
-text = ` <div class="handsome"> <p> ABCDEFG</p> <button> Click </button></div>`
+const text = ` <div class="handsome"> <p> ABCDEFG</p> <button> Click </button></div>`
 element.insertAdjacentHTML(position, text);
 
 element.innerHTML = "<div><p> Awesome </p></div>"
