@@ -1,16 +1,13 @@
 # Javascript
 Frequently used
 ```
+text = ` <div class="handsome"> <p> ABCDEFG</p> <button> Click </button></div>`
 element.insertAdjacentHTML(position, text);
 
 element.innerHTML = "<div><p> Awesome </p></div>"
 element.innerText = "text only"
 const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
 const child = parent.childNodes
-element.classList.add('')
-element.classList.toggle('')
-element.classList.remove('')
-element.classList.contains('')
 element.appendChild
 ```
 
