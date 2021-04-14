@@ -1,6 +1,8 @@
 # Javascript
 Frequently used
 ```
+element.insertAdjacentHTML(position, text);
+
 element.innerHTML = "<div><p> Awesome </p></div>"
 element.innerText = "text only"
 const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
