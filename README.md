@@ -13,6 +13,7 @@ element.appendChild
 # HTML
 
 ```
+dropdown effects with only html
 <details>
     <summary>Details</summary>
     Something small enough to escape casual notice.
