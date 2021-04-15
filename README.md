@@ -82,7 +82,7 @@ Add image in ReactJS condition use `` instead of ''
 background: ${({whitebg}) => (whitebg ? `url(${imageUrl})`: '#170c1a')};
 ```
 
-#check compatilibity
+# check browser compatilibity
 
 ```
 <script type="text/javascript">
