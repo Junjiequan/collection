@@ -81,3 +81,46 @@ Add image in ReactJS condition use `` instead of ''
 ```
 background: ${({whitebg}) => (whitebg ? `url(${imageUrl})`: '#170c1a')};
 ```
+
+#check compatilibity
+
+```
+<script type="text/javascript">
+        var version = detectIE();
+        if (version && version < 11) {
+            document.getElementById('browser-not-supported').innerHTML =
+                '<h4>' + '您的浏览器不支持访问本站，建议使用Chrome或360浏览器' + '</h4>';
+        }
+
+        function detectIE() {
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf('MSIE ');
+            if (msie > 0) {
+                return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+            }
+            var trident = ua.indexOf('Trident/');
+            if (trident > 0) {
+                var rv = ua.indexOf('rv:');
+                return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+            }
+            var edge = ua.indexOf('Edge/');
+            if (edge > 0) {
+                return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+            }
+            return false;
+        }
+
+        function navigateLink(url) {
+            var hash = "/".replace(".", "");
+            url = url.replace(hash + "https", "https").replace(hash + "bbs", "https://bbs");
+            url = url.replace("dnvod.eu", "ifvod.tv");
+            if (url.indexOf("http") > -1) {
+                window.open(url, "_blank");
+            } else {
+                window.location.hash = '#navurl_' + url + (url.indexOf("?") > -1 ? "&r=" : "?r=") + Math.random();
+            }
+            // console.log(url)
+        }
+
+    </script>
+```
