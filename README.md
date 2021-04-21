@@ -1,8 +1,8 @@
 # Javascript
 Frequently used
 ```
-if(no margin on body tag) use below
-document.body.scrollHeight
+if(no margin on body tag) use below  
+document.body.scrollHeight    // <<<  get entire page height
 else use below
 document.documentElement.scrollHeight
 
