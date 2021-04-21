@@ -1,6 +1,8 @@
 # Javascript
 Frequently used
 ```
+https://www.w3schools.com/howto/howto_js_scroll_to_top.asp <<< scroll to top button
+
 if(no margin on body tag) use below  
 document.body.scrollHeight    // <<<  get entire page height
 else use below
