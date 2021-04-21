@@ -1,6 +1,11 @@
 # Javascript
 Frequently used
 ```
+if(no margin on body tag) use below
+document.body.scrollHeight
+else use below
+document.documentElement.scrollHeight
+
 element.querySelectorAll(`.div[data-value]:not([data-value = "${e.target.textContent}"])`)
  
 const text = ` <div class="handsome"> <p> ABCDEFG</p> <button> Click </button></div>`
