@@ -82,6 +82,15 @@ white-space: pre-wrap; // css property
 
 {I am.\nJay}
 ```
+Replace letters with ...
+```
+.demo-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+```
 Remove Icon pointer
 ```
 pointer-events:none;
