@@ -18,8 +18,6 @@ element.querySelectorAll(`.div[data-value]:not([data-value = "${e.target.textCon
 const text = ` <div class="handsome"> <p> ABCDEFG</p> <button> Click </button></div>`
 element.insertAdjacentHTML(position, text);
 
-element.innerHTML = "<div><p> Awesome </p></div>"
-element.innerText = "text only"
 const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
 const child = parent.childNodes
 element.appendChild
