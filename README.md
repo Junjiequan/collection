@@ -1,4 +1,4 @@
-[Standard (air-bnb)](https://github.com/airbnb/css)
+[coding standard - js](https://github.com/airbnb/javascript)
 
 # Javascript
 
