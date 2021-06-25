@@ -1,7 +1,5 @@
 [coding standard - js](https://github.com/airbnb/javascript)
 
-# Javascript
-
 
 ## Some APIs & Codes used in previous vanilla javascript projects
 - [drag drop](http://jsfiddle.net/2Kgvh/)
