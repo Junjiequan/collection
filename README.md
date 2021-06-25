@@ -3,8 +3,26 @@
 # Javascript
 
 
-## Some APIs & Codes
-[drag drop](http://jsfiddle.net/2Kgvh/) , [DnD pure JS](https://github.com/SortableJS/Sortable/wiki/Sorting-with-the-help-of-HTML5-Drag'n'Drop-API) , [Arrays reorder](https://stackoverflow.com/questions/2440700/reordering-arrays/2440723), [SortableJS](https://github.com/SortableJS/Sortable), [EmailJS](https://www.emailjs.com/), [React-msg-popup](https://www.npmjs.com/package/react-toastify), [Grid-sort](https://vestride.github.io/Shuffle/), [Slider-Flickity](https://flickity.metafizzy.co/)
+## Some APIs & Codes used in previous vanilla javascript projects
+- [drag drop](http://jsfiddle.net/2Kgvh/)
+- [DnD pure JS](https://github.com/SortableJS/Sortable/wiki/Sorting-with-the-help-of-HTML5-Drag'n'Drop-API) 
+- [Arrays reorder](https://stackoverflow.com/questions/2440700/reordering-arrays/2440723)
+- [SortableJS](https://github.com/SortableJS/Sortable) 
+- [EmailJS](https://www.emailjs.com/)
+- [Grid-sort](https://vestride.github.io/Shuffle/)
+- [Slider-Flickity](https://flickity.metafizzy.co/)
+
+## APIS for REACT 
+- [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
+- [react-responsive](https://www.npmjs.com/package/react-responsive)
+- [hashRouter](https://reactrouter.com/web/api/HashRouter)
+- [browserRouter](https://reactrouter.com/web/api/BrowserRouter)
+- [react-page-transition](https://github.com/Steveeeie/react-page-transition)
+- [framer-motion](https://www.framer.com/api/motion/)
+- [react-animation](https://formidable.com/open-source/react-animations/)
+- [react-progressive-image](https://formidable.com/open-source/react-progressive-image/)
+- [lazy-load-image](https://www.npmjs.com/package/react-lazyload)
+- [React-msg-popup](https://www.npmjs.com/package/react-toastify)
 
 ## Frequently used codes
 ```
