@@ -121,5 +121,13 @@ git reset --hard <commit here>   <<- Set specific commit to top and delete all t
 git push --force
 mkdir components  <- create folder
 touch index.js <- create file
+
+If entered VIM
+Press i to enter insert mode (start typing your commit message)
+Press esc to exit insert mode
+Press :w to save the file
+Press :q to close the file
+Press :wq as a shortcut for the above
+
 ```
 
