@@ -18,7 +18,7 @@
 - [react-page-transition](https://github.com/Steveeeie/react-page-transition)
 - [framer-motion](https://www.framer.com/api/motion/)
 - [react-animation](https://formidable.com/open-source/react-animations/)
-- [react-progressive-image](https://formidable.com/open-source/react-progressive-image/)
+- [react-lazy-load-image-component](https://www.npmjs.com/package/react-lazy-load-image-component) 
 - [lazy-load-image](https://www.npmjs.com/package/react-lazyload)
 - [React-msg-popup](https://www.npmjs.com/package/react-toastify)
 
