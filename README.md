@@ -10,7 +10,7 @@
 - [Grid-sort](https://vestride.github.io/Shuffle/)
 - [Slider-Flickity](https://flickity.metafizzy.co/)
 
-## APIS for REACT 
+## Libraries for REACT 
 - [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
 - [react-responsive](https://www.npmjs.com/package/react-responsive)
 - [hashRouter](https://reactrouter.com/web/api/HashRouter)
