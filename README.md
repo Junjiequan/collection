@@ -12,7 +12,8 @@
 
 ## Libraries for REACT 
 - [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
-- [react-burger-animation](https://hamburger-react.netlify.app/)
+- [react-burger-toggle-animation](https://hamburger-react.netlify.app/)
+- [react-mob-navMenu-toggle-animation](http://negomi.github.io/react-burger-menu/)
 - [react-responsive](https://www.npmjs.com/package/react-responsive)
 - [hashRouter](https://reactrouter.com/web/api/HashRouter)
 - [browserRouter](https://reactrouter.com/web/api/BrowserRouter)
