@@ -22,6 +22,9 @@
 - [lazy-load-image](https://www.npmjs.com/package/react-lazyload)
 - [React-msg-popup](https://www.npmjs.com/package/react-toastify)
 
+## React events
+- [events](https://reactjs.org/docs/events.html)
+
 ## Frequently used codes
 ```
 https://www.w3schools.com/howto/howto_js_scroll_to_top.asp <<< scroll to top button
