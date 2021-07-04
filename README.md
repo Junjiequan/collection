@@ -9,6 +9,7 @@
 - [EmailJS](https://www.emailjs.com/)
 - [Grid-sort](https://vestride.github.io/Shuffle/)
 - [Slider-Flickity](https://flickity.metafizzy.co/)
+- [SmoothScroll](https://github.com/tsuyoshiwada/sweet-scroll)
 
 ## Libraries for REACT 
 - [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
