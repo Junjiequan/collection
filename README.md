@@ -123,6 +123,16 @@ Replace letters with ...
 # GIT
 
 ```
+Pure Git command pull process
+1. git clone https://github.com/userID/forked-repo.git
+2. cd forked-repo
+3. code .    < open VS code
+4. git status    < check whether if something has changed
+5. git add README.md     < push to stage step( add comment || delete change)
+6. git commit -m 'description'     < -m is message command 
+7. git push origin master      < master can be main sometimes.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 git reset --hard <commit here>   <<- Set specific commit to top and delete all the commits before the commit
 git push --force
 mkdir components  <- create folder
