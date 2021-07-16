@@ -78,17 +78,6 @@ dropdown effects with only html
 
 
 
-# Color 
-- #070308 
-
-![image](https://user-images.githubusercontent.com/78078898/112045354-0c4b4680-8b4b-11eb-9c01-384782f895dc.png)
-- #ffd79d 
-
-![image](https://user-images.githubusercontent.com/78078898/112045440-25ec8e00-8b4b-11eb-86bc-4d51e926246f.png)
-- #7D3EC1 
-
-![image](https://user-images.githubusercontent.com/78078898/112045565-49173d80-8b4b-11eb-8baf-7821f4d5e408.png)
-
 # Color gradient
 
 - [UI gradient](https://uigradients.com/#MegaTron)
