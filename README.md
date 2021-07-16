@@ -26,6 +26,7 @@
 - [React-msg-popup](https://www.npmjs.com/package/react-toastify)
 - [React-Spinner](https://www.npmjs.com/package/react-spinners)
 - [React-scroll-nav](https://gist.github.com/whoisryosuke/72d9979a44e01e95400760d98ca519e8)
+- [React-use-cart](https://www.npmjs.com/package/react-use-cart)
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
