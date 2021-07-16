@@ -25,6 +25,7 @@
 - [lazy-load-image](https://www.npmjs.com/package/react-lazyload)
 - [React-msg-popup](https://www.npmjs.com/package/react-toastify)
 - [React-Spinner](https://www.npmjs.com/package/react-spinners)
+- [React-scroll-nav](https://gist.github.com/whoisryosuke/72d9979a44e01e95400760d98ca519e8)
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
