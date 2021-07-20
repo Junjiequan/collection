@@ -32,6 +32,7 @@
 - [events](https://reactjs.org/docs/events.html)
 
 ## Redux
+window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 
 `import { createStore } from 'redux;`
 
