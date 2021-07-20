@@ -31,6 +31,48 @@
 ## React events
 - [events](https://reactjs.org/docs/events.html)
 
+## Redux
+
+`import { createStore } from 'redux;`
+
+//ACTION
+
+`
+const increment = () => {
+    return { type:'INCREMENT' }
+}`
+
+//REDUCER
+
+```
+const counter = (state=0; action)=>{
+     switch(action.type){
+          case "INCREMENT":
+               return state + action.payload 
+     }
+}
+
+```
+
+`let store = createStore(counter) 
+`
+
+//Display in console
+
+`
+store.subscribe(() => console.log(store.getState()));
+`
+
+//DISPATCH
+
+`
+store.dispatch(increment());
+`
+
+
+
+```
+
 ## Frequently used codes
 ```
 https://www.w3schools.com/howto/howto_js_scroll_to_top.asp <<< scroll to top button
