@@ -1,6 +1,5 @@
 [coding standard - js](https://github.com/airbnb/javascript)
 
-[form-html-attribute-submit](https://stackoverflow.com/questions/44062024/submit-form-using-button-in-parent-component-in-react/44062192%20%20____FORM%20INPUT)
 
 ## Some APIs & Codes used in previous vanilla javascript projects
 - [drag drop](http://jsfiddle.net/2Kgvh/)
@@ -98,6 +97,18 @@ element.appendChild
 ```
 # HTML
 
+## FORM
+
+```
+<Form id="check-this"> 
+    <label>
+        <input />
+    </label>
+</Form>
+
+<button form="check-this" content='Submit' value='Submit'/>
+```
+
 ```
 dropdown effects with only html
 <details>
@@ -105,6 +116,7 @@ dropdown effects with only html
     Something small enough to escape casual notice.
 </details>
 ```
+
 
 # Font 
 - font-family: 'Cedarville Cursive', cursive; 
