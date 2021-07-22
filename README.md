@@ -12,6 +12,7 @@
 - [SmoothScroll](https://github.com/tsuyoshiwada/sweet-scroll)
 
 ## Libraries for REACT 
+- [Styled-components](https://dev.to/paulclindo/everything-you-need-to-know-about-styled-components-2a6a)
 - [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
 - [react-burger-toggle-animation](https://hamburger-react.netlify.app/)
 - [react-mob-navMenu-toggle-animation](http://negomi.github.io/react-burger-menu/)
