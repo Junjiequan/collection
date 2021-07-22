@@ -29,7 +29,7 @@
 - [React-scroll-nav](https://gist.github.com/whoisryosuke/72d9979a44e01e95400760d98ca519e8)
 - [React-use-cart](https://www.npmjs.com/package/react-use-cart)
 - [React-transition-group](https://dev.to/terrierscript/styled-component--react-transition-group--very-simple-transition-jja)
-- [React-hook-form](https://react-hook-form.com/)
+- [React-hook-form](https://react-hook-form.com/) | [Examples](https://codesandbox.io/s/react-hook-form-controller-pz8oj?file=/src/index.js:93-103)
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
