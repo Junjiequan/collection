@@ -75,7 +75,7 @@ store.dispatch(increment());
 
 
 
-```
+
 
 ## Frequently used codes
 ```
@@ -98,6 +98,7 @@ element.appendChild
 # HTML
 
 ## FORM
+[stakoverflow](https://stackoverflow.com/questions/44062024/submit-form-using-button-in-parent-component-in-react/44062192%20%20____FORM%20INPUT)
 
 ```
 <Form id="check-this"> 
@@ -108,9 +109,10 @@ element.appendChild
 
 <button form="check-this" content='Submit' value='Submit'/>
 ```
+## dropdown effects with only html
 
 ```
-dropdown effects with only html
+
 <details>
     <summary>Details</summary>
     Something small enough to escape casual notice.
