@@ -34,6 +34,7 @@
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
+- [TypeScript](https://create-react-app.dev/docs/adding-typescript/)
 
 ## Redux
 window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
