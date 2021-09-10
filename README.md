@@ -202,4 +202,10 @@ Press :q to close the file
 Press :wq as a shortcut for the above
 
 ```
+# Typescript 
 
+```
+The key point is using the -p flag to inform npx that the tsc binary belongs to the typescript package
+
+npx -p typescript tsc --init
+```
