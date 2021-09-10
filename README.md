@@ -208,4 +208,7 @@ Press :wq as a shortcut for the above
 The key point is using the -p flag to inform npx that the tsc binary belongs to the typescript package
 
 npx -p typescript tsc --init
+
+In case 'ts-node' is not recognized, ts-node is needed to be installed with npx
+"start": "nodemon --exec npx ts-node ./index.ts",
 ```
