@@ -32,6 +32,7 @@
 - [React-transition-group](https://dev.to/terrierscript/styled-component--react-transition-group--very-simple-transition-jja)
 - [React-hook-form](https://react-hook-form.com/) | [Examples](https://codesandbox.io/s/react-hook-form-controller-pz8oj?file=/src/index.js:93-103)
 - [React-body-scroll-lock](https://www.npmjs.com/package/body-scroll-lock)
+- [Dicebear - Random avatar generator](https://www.npmjs.com/package/@dicebear/avatars)
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
