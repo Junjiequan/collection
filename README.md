@@ -12,6 +12,7 @@
 - [SmoothScroll](https://github.com/tsuyoshiwada/sweet-scroll)
 
 ## Libraries for REACT 
+- [Cost-of-modules package cost check](https://www.npmjs.com/package/cost-of-modules) 
 - [React-helmet /For HTML meta TAgs/](https://www.npmjs.com/package/react-helmet)
 - [Styled-components](https://dev.to/paulclindo/everything-you-need-to-know-about-styled-components-2a6a)
 - [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
@@ -33,6 +34,7 @@
 - [React-hook-form](https://react-hook-form.com/) | [Examples](https://codesandbox.io/s/react-hook-form-controller-pz8oj?file=/src/index.js:93-103)
 - [React-body-scroll-lock](https://www.npmjs.com/package/body-scroll-lock)
 - [Dicebear - Random avatar generator](https://www.npmjs.com/package/@dicebear/avatars)
+
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
