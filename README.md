@@ -179,7 +179,9 @@ Replace letters with ...
 ```
 # Heroku
 [sub-directory push to the heroku] (https://stackoverflow.com/questions/26241683/heroku-deploy-a-sub-directory)
-
+ git subtree push --prefix client heroku master
+ 
+ 
 # GIT
 
 ```
