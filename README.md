@@ -218,3 +218,39 @@ npx -p typescript tsc --init
 In case 'ts-node' is not recognized, ts-node is needed to be installed with npx
 "start": "nodemon --exec npx ts-node ./index.ts",
 ```
+
+# ExpressJS
+
+[What does next() do in Express](https://stackoverflow.com/questions/10695629/what-is-the-parameter-next-used-for-in-express)
+```
+function loadUser(req, res, next) {
+  if (req.params.userId) {
+    Users.findOne({ id: req.params.userId }, function(err, user) {
+      if (err) {
+        next(new Error("Couldn't find user: " + err));
+        return;
+      }
+
+      req.user = user;
+      next();
+    });
+  } else {
+    next();
+  }
+}
+
+// ...
+
+app.get('/user/:userId', loadUser, function(req, res) {
+  // do something with req.user
+});
+
+app.get('/users/:userId?', loadUser, function(req, res) {
+  // if req.user was set, it's because userId was specified (and we found the user).
+});
+
+// Pretend there's a "loadItem()" which operates similarly, but with itemId.
+app.get('/item/:itemId/addTo/:userId', loadItem, loadUser, function(req, res) {
+  req.user.items.append(req.item.name);
+});
+```
