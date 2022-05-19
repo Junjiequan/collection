@@ -1,5 +1,7 @@
 [coding standard - js](https://github.com/airbnb/javascript)
 
+## Prettier setting
+[link](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code)
 
 ## Some APIs & Codes used in previous vanilla javascript projects
 - [drag drop](http://jsfiddle.net/2Kgvh/)
