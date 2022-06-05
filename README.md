@@ -81,6 +81,13 @@ store.subscribe(() => console.log(store.getState()));
 store.dispatch(increment());
 `
 
+## LocalStorage vs SessionStorage vs cookies
+For most cases, we use the localStorage object if we want some data to be on the browser. <br/>
+If we want it on the server, then we use cookies, and the sessionStorage is used when we want to <br/>
+destroy the data whenever that specific tab gets closed or the season is closed by the user.
+
+![image](https://user-images.githubusercontent.com/78078898/172065063-5c54b371-839b-46c2-a802-23b86bc74b45.png)
+
 
 
 
