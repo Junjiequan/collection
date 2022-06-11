@@ -231,6 +231,7 @@ In case 'ts-node' is not recognized, ts-node is needed to be installed with npx
 # ExpressJS
 
 [What does next() do in Express](https://stackoverflow.com/questions/10695629/what-is-the-parameter-next-used-for-in-express)
+[Express doc](http://qnimate.com/express-js-middleware-tutorial/)
 ```
 function loadUser(req, res, next) {
   if (req.params.userId) {
