@@ -6,7 +6,8 @@
 ## ES-lint
 
 `npx eslint --init`
-[link](https://www.geeksforgeeks.org/how-to-configure-eslint-for-react-projects/)
+
+[Config Link](https://www.geeksforgeeks.org/how-to-configure-eslint-for-react-projects/)
 
 ## Some APIs & Codes used in previous vanilla javascript projects
 - [drag drop](http://jsfiddle.net/2Kgvh/)
