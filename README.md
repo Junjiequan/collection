@@ -3,6 +3,10 @@
 ## Prettier setting
 [link](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code)
 
+## ES-lint
+
+[link](https://www.geeksforgeeks.org/how-to-configure-eslint-for-react-projects/)
+
 ## Some APIs & Codes used in previous vanilla javascript projects
 - [drag drop](http://jsfiddle.net/2Kgvh/)
 - [DnD pure JS](https://github.com/SortableJS/Sortable/wiki/Sorting-with-the-help-of-HTML5-Drag'n'Drop-API) 
