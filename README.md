@@ -192,6 +192,14 @@ Replace letters with ...
   -webkit-box-orient: vertical;
 }
 ```
+# Vite deloy
+```
+npm run build
+git add dist -f
+git commit -m "..."
+git subtree push --prefix dist origin gh-pages
+```
+
 # Heroku
 [sub-directory push to the heroku] (https://stackoverflow.com/questions/26241683/heroku-deploy-a-sub-directory)
  git subtree push --prefix client heroku master
