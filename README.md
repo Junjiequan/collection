@@ -44,6 +44,9 @@
 - [Dicebear - Random avatar generator](https://www.npmjs.com/package/@dicebear/avatars)
 
 
+## Custom hooks
+https://usehooks-ts.com/react-hook/use-counter
+
 ## React events
 - [events](https://reactjs.org/docs/events.html)
 - [TypeScript](https://create-react-app.dev/docs/adding-typescript/)
