@@ -45,8 +45,8 @@
 
 
 ## Custom hooks
-https://usehooks-ts.com/react-hook/use-counter
-https://usehooks.com/useWindowSize/
+[usehooks-ts](https://usehooks-ts.com/react-hook/use-counter)
+[usehooks](https://usehooks.com/useWindowSize/)
 
 ## React events
 - [events](https://reactjs.org/docs/events.html)
