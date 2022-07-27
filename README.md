@@ -42,6 +42,7 @@
 - [React-hook-form](https://react-hook-form.com/) | [Examples](https://codesandbox.io/s/react-hook-form-controller-pz8oj?file=/src/index.js:93-103)
 - [React-body-scroll-lock](https://www.npmjs.com/package/body-scroll-lock)
 - [Dicebear - Random avatar generator](https://www.npmjs.com/package/@dicebear/avatars)
+- [react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll)
 
 
 ## Custom hooks
