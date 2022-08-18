@@ -1,6 +1,6 @@
 [coding standard - js](https://github.com/airbnb/javascript)
 
-## The most important thing by far - deep copy vs shallow copy 
+## The most important concept with JS by far - deep copy vs shallow copy 
 [explanation](https://blog.alexdevero.com/shallow-deep-copy-in-javascript/)
 ![image](https://user-images.githubusercontent.com/78078898/185477790-91044521-d19b-4aac-8604-65b4da0ea129.png)
 
