@@ -2,10 +2,12 @@
 
 ## The most important thing by far - deep copy vs shallow copy 
 [explanation](https://blog.alexdevero.com/shallow-deep-copy-in-javascript/)
+![image](https://user-images.githubusercontent.com/78078898/185477790-91044521-d19b-4aac-8604-65b4da0ea129.png)
+
 
 ## Prettier setting
 [link](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code)
-![image](https://user-images.githubusercontent.com/78078898/185477790-91044521-d19b-4aac-8604-65b4da0ea129.png)
+
 
 ## ES-lint
 
