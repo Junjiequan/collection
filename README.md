@@ -60,6 +60,11 @@
 - [TypeScript](https://create-react-app.dev/docs/adding-typescript/)
 
 ## Redux
+
+### localStorage 
+
+[apply localStorage] (https://dev.to/igorovic/simplest-way-to-persist-redux-state-to-localstorage-e67)
+
 window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 
 `import { createStore } from 'redux;`
