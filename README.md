@@ -103,6 +103,9 @@ store.subscribe(() => console.log(store.getState()));
 store.dispatch(increment());
 `
 
+## AppCache vs. Web Storage vs. Cookie
+[link](https://researchhubs.com/post/computing/web-application/appcache-vs-web-storage-vs-cookie.html)
+
 ## LocalStorage vs SessionStorage vs cookies
 For most cases, we use the localStorage object if we want some data to be on the browser. <br/>
 If we want it on the server, then we use cookies, and the sessionStorage is used when we want to <br/>
