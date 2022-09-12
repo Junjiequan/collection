@@ -1,8 +1,7 @@
 [coding standard - js](https://github.com/airbnb/javascript)
 
-## The most important concept with JS by far - deep copy vs shallow copy 
-[explanation](https://blog.alexdevero.com/shallow-deep-copy-in-javascript/)
-![image](https://user-images.githubusercontent.com/78078898/185477790-91044521-d19b-4aac-8604-65b4da0ea129.png)
+##  deep copy vs shallow copy 
+[Explanation](https://blog.alexdevero.com/shallow-deep-copy-in-javascript/)
 
 
 ## Prettier setting
@@ -63,45 +62,8 @@
 
 ### localStorage 
 
-[apply localStorage] (https://dev.to/igorovic/simplest-way-to-persist-redux-state-to-localstorage-e67)
+[apply localStorage](https://dev.to/igorovic/simplest-way-to-persist-redux-state-to-localstorage-e67)
 
-window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
-
-`import { createStore } from 'redux;`
-
-//ACTION
-
-`
-const increment = () => {
-    return { type:'INCREMENT' }
-}`
-
-//REDUCER
-
-```
-const counter = (state=0; action)=>{
-     switch(action.type){
-          case "INCREMENT":
-               return state + action.payload 
-     }
-}
-
-```
-
-`let store = createStore(counter) 
-`
-
-//Display in console
-
-`
-store.subscribe(() => console.log(store.getState()));
-`
-
-//DISPATCH
-
-`
-store.dispatch(increment());
-`
 
 ## AppCache vs. Web Storage vs. Cookie
 [link](https://researchhubs.com/post/computing/web-application/appcache-vs-web-storage-vs-cookie.html)
@@ -117,28 +79,14 @@ destroy the data whenever that specific tab gets closed or the season is closed 
 
 
 
-## Frequently used codes
-```
-https://www.w3schools.com/howto/howto_js_scroll_to_top.asp <<< scroll to top button
+## Scroll
 
-if(no margin on body tag) use below  
-document.body.scrollHeight    // <<<  get entire page height
-else use below
-document.documentElement.scrollHeight
+[Scroll to Top](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
 
-element.querySelectorAll(`.div[data-value]:not([data-value = "${e.target.textContent}"])`)
- 
-const text = ` <div class="handsome"> <p> ABCDEFG</p> <button> Click </button></div>`
-element.insertAdjacentHTML(position, text);
-
-const parent = child.parentElement || item.closest('.list-item').classList.toggle('fall')
-const child = parent.childNodes
-element.appendChild
-```
 # HTML
 
 ## FORM
-[stakoverflow](https://stackoverflow.com/questions/44062024/submit-form-using-button-in-parent-component-in-react/44062192%20%20____FORM%20INPUT)
+[Form in React](https://stackoverflow.com/questions/44062024/submit-form-using-button-in-parent-component-in-react/44062192%20%20____FORM%20INPUT)
 
 ```
 <Form id="check-this"> 
@@ -152,7 +100,6 @@ element.appendChild
 ## dropdown effects with only html
 
 ```
-
 <details>
     <summary>Details</summary>
     Something small enough to escape casual notice.
@@ -161,10 +108,7 @@ element.appendChild
 
 
 # Font 
-- font-family: 'Cedarville Cursive', cursive; 
 
-![image](https://user-images.githubusercontent.com/78078898/112046156-f7bb7e00-8b4b-11eb-8e74-f4617c4fafbd.png)
-- font-family: 'Kanit', sans-serif; 
 
 ![image](https://user-images.githubusercontent.com/78078898/112045985-c04cd180-8b4b-11eb-8ff5-9bf204a3af96.png)
 - font-family: 'Encode Sans', sans-serif; 
@@ -172,10 +116,6 @@ element.appendChild
 ![image](https://user-images.githubusercontent.com/78078898/112046068-dc507300-8b4b-11eb-9888-4158fd64e143.png)
 - font-family: 'Poppins', sans-serif;
 
-![image](https://user-images.githubusercontent.com/78078898/112513784-f92bb700-8d94-11eb-9997-c1743aec82a2.png)
-- font-family: 'Barlow Condensed', sans-serif;
-
-![image](https://user-images.githubusercontent.com/78078898/113646841-ec0ea200-9689-11eb-9f99-95646145a994.png)
 
 
 
