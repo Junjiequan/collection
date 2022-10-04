@@ -2,7 +2,7 @@
 
 ## Test tools
 ![image](https://user-images.githubusercontent.com/78078898/190687918-0f4e2ca4-76b0-471f-8e22-03daf1ce795c.png)
-[Shipping to production] (https://blog.pragmaticengineer.com/shipping-to-production/)
+[Shipping to production](https://blog.pragmaticengineer.com/shipping-to-production/)
 
 ##  deep copy vs shallow copy 
 [Explanation](https://blog.alexdevero.com/shallow-deep-copy-in-javascript/)
