@@ -243,3 +243,8 @@ app.get('/item/:itemId/addTo/:userId', loadItem, loadUser, function(req, res) {
   req.user.items.append(req.item.name);
 });
 ```
+
+# Mac M1 issues
+[Fixing zsh command not found: brew](https://stackoverflow.com/questions/65619529/fixing-zsh-command-not-found-brew-installing-homebrew)
+```
+```
