@@ -247,4 +247,7 @@ app.get('/item/:itemId/addTo/:userId', loadItem, loadUser, function(req, res) {
 # Mac M1 issues
 [Fixing zsh command not found: brew](https://stackoverflow.com/questions/65619529/fixing-zsh-command-not-found-brew-installing-homebrew)
 ```
+echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/ven/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/ven/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
